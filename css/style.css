@@ -123,8 +123,20 @@ img.portada{
 }
 img.bg-foto-nota{
     display: block;
-    margin: 20px auto;
+    margin: 20px auto 0;
     max-width: 900px;
+}
+span.leyenda-foto{
+    color: #838383;
+    display: block;
+    font-family: "Roboto", sans-serif;
+    font-size: 1rem;
+    font-weight: 400;
+    line-height: 1.5;
+    margin: 6px auto 30px;
+    max-width: 900px;
+    text-align: center;
+    text-transform: uppercase;
 }
 .main{
     padding-top: 40px;
