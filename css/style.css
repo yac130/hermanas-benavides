@@ -256,5 +256,8 @@ span.leyenda-foto{
         .box-youtube iframe{
             height: 300px;
         }
+    .main p{
+        font-size: 1.3rem;
+    }
 
 }
