@@ -244,7 +244,8 @@ span.leyenda-foto{
         margin-top: 60px;
     }
     .header h1{
-        width: 90%;
+        margin: 20px 0;
+        /*width: 90%;*/
     }
     .box-slider{
         max-width: 90%;
